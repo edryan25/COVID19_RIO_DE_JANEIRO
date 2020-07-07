@@ -1,0 +1,4 @@
+Python 3.8 ou versões superiores
+Pandas
+Jupyter Notebook
+Matplotlib
