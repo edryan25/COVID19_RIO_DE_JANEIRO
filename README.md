@@ -27,7 +27,7 @@ https://covid.saude.gov.br
 
 git clone https://github.com/kevingabrielmelo/COVID-VALE-DO-PARAIBA-E-REGIAO
 
-4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
+4. Entrar na pasta do repositório (pelo cmd ou software similar) e instalar.
 
 pip install -r requirements.txt
 
