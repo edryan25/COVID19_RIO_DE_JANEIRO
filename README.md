@@ -25,7 +25,7 @@ https://covid.saude.gov.br
 2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
 3. Clonar esse repositório 
 
-git clone https://github.com/kevingabrielmelo/COVID-VALE-DO-PARAIBA-E-REGIAO
+git clone https://github.com/edryan25/COVID19_RIO_DE_JANEIRO
 
 4. Entrar na pasta do repositório (pelo cmd ou software similar) e instalar.
 
