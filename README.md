@@ -30,13 +30,13 @@ https://covid.saude.gov.br
 git clone https://github.com/edryan25/COVID19_RIO_DE_JANEIRO
 
 4. Entrar na pasta do repositório (pelo cmd ou software similar) e instalar.
-
+'''
 pip install -r requirements.txt
-
+'''
 5. Executar o Jupyter Notebook
-
+'''
 jupyter notebook
-
+'''
 ## Conclusão
 Com os gráficos apresentados, temos em vista de que a cidade com mais casos e obitos acumulados é a capital, 
 porém sabemos que ocorre isso por conta da capital ser mais habitada, após a capital, a cidade de Duque de Caxias
