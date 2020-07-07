@@ -14,10 +14,10 @@ Fernando Masanori
 Edryan Matheus dos Santos Maciel e Luiz Miguel Macedo Andre
 
 ### Requisitos
-Python 3.8 ou versões superiores
-Pandas
-Jupyter Notebook
-Matplotlib
+- Python 3.8 ou versões superiores
+- Pandas
+- Jupyter Notebook
+- Matplotlib
 
 Fonte dos dados
 https://covid.saude.gov.br
