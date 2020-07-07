@@ -1,6 +1,8 @@
 # COVID19-RIO-DE-JANEIRO
 ## Resumo
-Atualmente o assunto mais comentado é o COVID19, com isso fizemos uma análise no dados dos SUS sobre o COVID (está disponível para todos que quiserem acessar). Após a análise dos dados, escolhemos pegar os dados do Rio de Janeiro e gerar gráficos sobre essas informações.   
+Atualmente o assunto mais comentado é o COVID19, com isso fizemos uma análise no dados dos SUS 
+sobre o COVID (está disponível para todos que quiserem acessar).Após a análise dos dados, escolhemos pegar os
+dados do Rio de Janeiro e gerar gráficos sobre essas informações.   
 
 ### Instituição
 Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
@@ -36,4 +38,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Conclusão
-Com os gráficos apresentados, temos em vista de que a cidade com mais casos e obitos acumulados é a capital, porém sabemos que ocorre isso por conta da capital ser mais habitada, após a capital, a cidade de Duque de Caxias é a com mais óbitos e a de Niterói é a com mais casos acumulados. Os gráficos que usam as semanas EPIs, vemos que os números de casos acumulados só aumentou e na semana 23 para a 24 não aumentou tanto como antes e isso ocorre também com os óbitos.
+Com os gráficos apresentados, temos em vista de que a cidade com mais casos e obitos acumulados é a capital, 
+porém sabemos que ocorre isso por conta da capital ser mais habitada, após a capital, a cidade de Duque de Caxias
+é a com mais óbitos e a de Niterói é a com mais casos acumulados. Os gráficos que usam as semanas EPIs, vemos que
+os números de casos acumulados só aumentou e na semana 23 para a 24 não aumentou tanto como antes e isso ocorre também com os óbitos.
